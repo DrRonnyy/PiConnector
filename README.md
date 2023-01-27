@@ -12,7 +12,10 @@ The PiConnector board makes it easy to connect power and data from your MCU and 
 This has been tested to power a Raspberry Pi 3, please be cautious on connecting a Pi that consumes more power, it should work on a Raspberry Pi 4 but some people report that powering a Pi 4 by “GPIO” isn’t reliable.
 
 BOM: 
+
 2	JST-HX 4-Pin female
+
 1	JST HX 2-Pin female
+
 1 	Female Header 2x20 pin (2.54mm) (Pololu 1037)
 
