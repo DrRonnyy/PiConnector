@@ -19,3 +19,4 @@ BOM:
 
 1 	Female Header 2x20 pin (2.54mm) (Pololu 1037)
 
+Option B: It is possible to save some headspace by soldering the JST connectors to the opposite side where the 40 pin connector is, however the headers would have to face the reverse way to keep compatible with the original wiring. 
